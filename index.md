@@ -142,7 +142,7 @@ five minutes; cached search results expire after one hour.
 ## Contact
 
 Questions or data requests:
-- GitHub issue: <https://github.com/AdelElo13/Logos/issues> (if public)
+- GitHub issue: <https://github.com/AdelElo13/Verascripta/issues> (if public)
 - Email: beatboymfkr@gmail.com
 
 If you are a citizen of the EU/EEA, UK, or California, you have rights
